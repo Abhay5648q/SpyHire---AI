@@ -1,2 +1,3 @@
-# SpyHire---AI
-AI-powered job outreach assistant that drafts personalized application emails from job posts, with human-in-the-loop approval before sending via Gmail.
+# SpyHire 🎯
+
+**An AI-powered job outreach assistant** — paste a job post, get a personalized, professional application email drafted automatically, review it, and send it with one click.
